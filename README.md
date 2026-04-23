@@ -9,13 +9,14 @@ The app presents fun and interactive questions related to social media, slang, m
 ## Features
 - Displays Gen Z-related quiz questions
 - Sequential question navigation
-- True/False answer buttons
+- Fact/Cap answer buttons
 - Instant feedback after each answer
 - Explanations for correct and incorrect answers
 - Final score display
 - Performance evaluation (e.g., Good, Excellent, Needs Improvement)
 - Restart quiz option
 - Exit button
+- Display result button
 
 ## Built With
 - Kotlin
@@ -25,13 +26,12 @@ The app presents fun and interactive questions related to social media, slang, m
 ## How It Works
 The user starts the quiz from the main screen
 Questions are displayed one at a time
-The user selects an answer (True/False)
+The user selects an answer (Fact/Cap)
 The app immediately shows:
 Whether the answer is correct or incorrect
-A short explanation
 After completing all questions:
 A results screen appears
-Final score and feedback are displayed
+Final score and comment is shown
 
 ## Purpose
 
