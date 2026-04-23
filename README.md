@@ -43,6 +43,11 @@ This app was created to:
 - Practice UI design and user interaction
 
  ## My Gen Z Quiz App Image
+<img width="1440" height="900" alt="Start Page " src="https://github.com/user-attachments/assets/b7e332e7-0607-4e25-bbe7-372ec3cabf79" />
+
+<img width="1440" height="900" alt="Quiz page" src="https://github.com/user-attachments/assets/24542207-7b1c-4d90-920a-d030019923e6" />
+
+<img width="1440" height="900" alt="Results Page " src="https://github.com/user-attachments/assets/4f3e7ffd-0bc7-4283-803d-47e9b60e67d0" />
 
 
 ## My Presentation of the Gen Z Quiz App
